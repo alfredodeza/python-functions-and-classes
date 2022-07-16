@@ -47,6 +47,5 @@ In this week you will learn to:
 - [Basics of Python functions](https://docs.microsoft.com/learn/modules/functions-python/2-function-basics?WT.mc_id=academic-0000-alfredodeza)
 - [Testing with Pytest](https://docs.microsoft.com/learn/modules/test-python-with-pytest/?WT.mc_id=academic-0000-alfredodeza)
 - [Use variable arugments](https://docs.microsoft.com/learn/modules/functions-python/6-variable-arguments?WT.mc_id=academic-0000-alfredodeza)
-- 
 - [Free Azure Certification for Students](https://docs.microsoft.com/learn/certifications/student-training-and-certification?WT.mc_id=academic-0000-alfredodeza)
 - [Python for Beginners Learn Path](https://docs.microsoft.com/learn/paths/beginner-python/?WT.mc_id=academic-0000-alfredodeza)
