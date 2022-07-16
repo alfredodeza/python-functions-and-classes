@@ -2,7 +2,7 @@
 
 _Python Bootcamp for Data week 2: Python Functions and Classes_
 
-This week, you will learn how to effectively use variables, logic, and Python’s data structures to load, persist, and iterate over data. You will apply these data structures to solve different problems as well as extract data from them.
+This week, you will learn how to create functions, classes, and methods. These are the basis of almost any program you might create with Python. Functions and classes are useful for organizing code, increasing maintainability and code reuse. 
 
 > 🎥 Click the image above to access week 1 of the full course on O'Reilly
 
