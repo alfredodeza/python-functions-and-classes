@@ -6,7 +6,8 @@ This week, you will learn how to create functions, classes, and methods. These a
 
 > 🎥 Click the image above to access week 1 of the full course on O'Reilly
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50146VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-bootcamp-for/50146VIDEOPAIML/50146VIDEOPAIML-c4_s1/ "Python Functions and Classes")
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50146VIDEOPAIML/400w/)](https://www.oreilly.com/videos/python-bootcamp/50146VIDEOPAIML/ "Python functions and classes")
+
 
 This is week 2 (out of 4) of the Python Bootcamp for Data. The whole course has four weeks:
 
